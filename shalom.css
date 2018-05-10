@@ -1,0 +1,130 @@
+.imgo{
+    width: 11%;
+}
+.navbar{
+
+    background:white;
+
+
+
+  }
+
+  .nav-link , .navbar-brand{
+
+    color: 
+    rgb(100, 97, 97);
+
+    cursor: pointer;
+    margin-left: 20%
+
+  }
+
+  .nav-link{
+
+    margin-right: 1em !important;
+
+  }
+
+  .nav-link:hover{
+
+    background: white;
+
+    color: orange;
+
+
+
+  }
+
+  .navbar-collapse{
+
+    justify-content: flex-end;
+
+  }
+
+  .navbar-toggler{
+
+    background:#fff !important;
+
+  }
+
+.menu li
+  {
+    
+    margin-top: 12px;
+    margin-bottom: 1rem;
+    margin-left: -8px;
+    list-style-type: none;
+    color:rgb(100, 97, 97);
+    line-height: 30px;
+    width:30%;
+    
+    
+}
+.menu li :hover{
+  background: white;
+  color:orange;
+  
+}
+
+
+.h2{
+ 
+color: rgb(100, 97, 97);
+    padding-top:10%;
+  
+  }
+
+article{
+  border:1px solid #000;
+  overflow: hidden;
+  width: 70%;
+  margin-left: 211px;
+margin-top:-498px;
+}
+nwimg{
+background:url("naijaSports.jpg");
+width:60%;
+padding-left: 5% ;
+padding-right:5%;
+padding-bottom: 5%;
+
+}
+.h1a{
+  font-size: 1.5rem;
+padding-left: 269px;
+padding-top: 26px;
+text-shadow: 2px 2px 2px;
+color: rgb(100, 97, 97);
+}
+.people{
+  display: flex;
+  text-align: center;
+ 
+  margin-top:3%
+
+}
+.people :hover{
+  box-shadow: 2px 2px 2px;
+  color: rgb(107, 103, 103)
+}
+
+
+.economy{
+  display: flex;
+  text-align: center;
+}
+.economy :hover{
+box-shadow: 2px 2px 2px;
+color: rgb(107, 103, 103)
+
+} 
+
+.culture{
+  display: flex;
+  text-align: center;
+}
+.culture :hover{
+  box-shadow: 2px 2px 2px;
+  color: rgb(107, 103, 103)
+  } 
+  
